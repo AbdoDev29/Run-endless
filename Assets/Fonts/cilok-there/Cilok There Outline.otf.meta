@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0e2751797634fca47aa98c5b5d703b53
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cilok There Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7366e401e6c717e4f885f82bd1247e60, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
